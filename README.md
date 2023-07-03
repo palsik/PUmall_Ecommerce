@@ -34,7 +34,7 @@ The app is built using the Android framework, which provides the necessary tools
 PUmall utilizes Firebase for various functionalities such as user authentication, real-time database for storing listings and user information, and cloud messaging for buyer-seller communication.
 
 - **Payment Gateway Integration**: 
-PUmall integrates a secure payment gateway API (e.g., Stripe, PayPal) to enable seamless and secure transactions between buyers and sellers.
+  An update will integrate a secure payment gateway API (e.g., Stripe, PayPal) to enable seamless and secure transactions between buyers and sellers.
 
 
 
