@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "146660599360",
+    "firebase_url": "https://mkoroshoni-e5350-default-rtdb.firebaseio.com",
+    "project_id": "mkoroshoni-e5350",
+    "storage_bucket": "mkoroshoni-e5350.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146660599360:android:9f4b56fbddc1f7a6b821a5",
+        "android_client_info": {
+          "package_name": "com.adarshgarment.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146660599360-la9k9vfvpjl4e6umkb0884cqjsjvs5nr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-e-p9PllxDeX8La_rrejoVLTntsAXs0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146660599360-la9k9vfvpjl4e6umkb0884cqjsjvs5nr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146660599360:android:cb2d83daf3800f98b821a5",
+        "android_client_info": {
+          "package_name": "com.palstek.mkoroshoni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146660599360-la9k9vfvpjl4e6umkb0884cqjsjvs5nr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-e-p9PllxDeX8La_rrejoVLTntsAXs0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146660599360-la9k9vfvpjl4e6umkb0884cqjsjvs5nr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
